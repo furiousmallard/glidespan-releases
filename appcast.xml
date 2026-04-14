@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Glidespeed Updates</title>
+        <description>Most recent changes with links to updates for Glidespeed.</description>
+        <language>en</language>
+        <link>https://glidespeed.app</link>
+
+        <!-- Items ordered newest first -->
+
+        <item>
+            <title>Version 1.1.7</title>
+            <pubDate>Mon, 14 Apr 2026 16:36:00 +0000</pubDate>
+            <sparkle:version>1.1.7</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.7</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed Paddle checkout flow - purchases now work correctly</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan/releases/download/v1.1.7/Glidespan-1.1.7.dmg"
+                sparkle:edSignature="2WqXWAHThCxhJcBEBHml9h/wfaIgNPORSf7JhCJ0yxSnQysYrxHw6vm+CbTe9XXk3ofD+67HJ78qTHWPJiDgBw=="
+                length="21538647"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
+            <title>Version 1.1.5</title>
+            <pubDate>Wed, 01 Apr 2026 22:10:55 -0400</pubDate>
+            <sparkle:version>1.1.5</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.5</h2>
+                <h3>Simplified Distribution</h3>
+                <ul>
+                    <li>Streamlined to direct distribution via GitHub Releases + Sparkle updates</li>
+                </ul>
+                <h3>Background Services Architecture</h3>
+                <ul>
+                    <li>New worker-based architecture for analytics, scheduling, and session management</li>
+                    <li>Improved reliability and performance of background operations</li>
+                </ul>
+                <h3>UI Improvements</h3>
+                <ul>
+                    <li>Updated app icons</li>
+                    <li>New server settings pane</li>
+                    <li>Worker status indicator in settings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan/releases/download/v1.1.5/Glidespan-1.1.5.dmg"
+                sparkle:edSignature="ROOf81sUs7cx14b18l8GBp1y8JvG1INksrlHwcYqFr3/xWzpvrzjMaoH+ZcND7x+bMSlpO9CQ8m6Hxt/dDhEAg=="
+                length="21477616"
+                type="application/octet-stream" />
+        </item>
+
+    </channel>
+</rss>
