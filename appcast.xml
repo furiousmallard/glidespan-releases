@@ -9,6 +9,26 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.9</title>
+            <pubDate>Mon, 14 Apr 2026 17:27:00 +0000</pubDate>
+            <sparkle:version>1.1.9</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.9</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed Paddle checkout - purchases now work correctly</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan/releases/download/v1.1.9/Glidespan-1.1.9.dmg"
+                sparkle:edSignature="px7mPn5k8eyG/Wa3Jhe131PsQDvUs5I63AviAAMYqvnxUZ3qCz5cO4qVWduZPxCPo+GsSMOt00ysUGDzn/b9Cw=="
+                length="21538675"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.8</title>
             <pubDate>Mon, 14 Apr 2026 16:55:00 +0000</pubDate>
             <sparkle:version>1.1.8</sparkle:version>
