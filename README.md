@@ -10,8 +10,6 @@ If you have a feature request or bug report, please [file an issue](https://gith
 
 **[Download Glidespan](https://glidespan.app/download)** - Always get the latest version from our website.
 
-Direct download: [https://releases.glidespan.app/latest/Glidespan.dmg](https://releases.glidespan.app/latest/Glidespan.dmg)
-
 ## Requirements
 
 - macOS 14 Sonoma or later
