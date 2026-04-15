@@ -9,6 +9,26 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.10</title>
+            <pubDate>Mon, 14 Apr 2026 18:15:00 +0000</pubDate>
+            <sparkle:version>1.1.10</sparkle:version>
+            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.10</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed version display in About and Check for Updates</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan/releases/download/v1.1.10/Glidespan-1.1.10.dmg"
+                sparkle:edSignature="HWhJNq51U2HYg4clJUv1Dp6+52AtyxGiREgMAPoQw4KBB0BO8LOjIq5Qvx1lVHzw4UUMisejNz1qK9oAjXGCDA=="
+                length="21538613"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.9</title>
             <pubDate>Mon, 14 Apr 2026 17:27:00 +0000</pubDate>
             <sparkle:version>1.1.9</sparkle:version>
