@@ -11,7 +11,7 @@
         <item>
             <title>Version 1.1.11</title>
             <pubDate>Thu, 17 Apr 2026 18:17:00 +0000</pubDate>
-            <sparkle:version>1.1.11</sparkle:version>
+            <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -31,7 +31,7 @@
         <item>
             <title>Version 1.1.10</title>
             <pubDate>Mon, 14 Apr 2026 18:15:00 +0000</pubDate>
-            <sparkle:version>1.1.10</sparkle:version>
+            <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -51,7 +51,7 @@
         <item>
             <title>Version 1.1.9</title>
             <pubDate>Mon, 14 Apr 2026 17:27:00 +0000</pubDate>
-            <sparkle:version>1.1.9</sparkle:version>
+            <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -71,7 +71,7 @@
         <item>
             <title>Version 1.1.8</title>
             <pubDate>Mon, 14 Apr 2026 16:55:00 +0000</pubDate>
-            <sparkle:version>1.1.8</sparkle:version>
+            <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -92,7 +92,7 @@
         <item>
             <title>Version 1.1.7</title>
             <pubDate>Mon, 14 Apr 2026 16:36:00 +0000</pubDate>
-            <sparkle:version>1.1.7</sparkle:version>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -112,7 +112,7 @@
         <item>
             <title>Version 1.1.5</title>
             <pubDate>Wed, 01 Apr 2026 22:10:55 -0400</pubDate>
-            <sparkle:version>1.1.5</sparkle:version>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
