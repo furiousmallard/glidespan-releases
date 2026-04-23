@@ -9,6 +9,26 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.18</title>
+            <pubDate>Wed, 23 Apr 2026 00:15:00 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.18</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed Sparkle XPC entitlements for sandboxed app updates</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.18/Glidespan-1.1.18.dmg"
+                sparkle:edSignature="BABoGqBnidCU6UdZ5fs0/GyOwg/c1didWlOU7HpWHjun5GMYZIkHl4xyBNtI2Xyy9xUBx+X3zuP28iCfaxTGBQ=="
+                length="21621913"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.17</title>
             <pubDate>Wed, 23 Apr 2026 00:02:00 +0000</pubDate>
             <sparkle:version>20</sparkle:version>
