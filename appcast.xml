@@ -9,6 +9,28 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.20</title>
+            <pubDate>Thu, 01 May 2026 23:05:00 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.1.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.20</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed profile tabs - Posts, Replies, and Media tabs now load correctly when clicked</li>
+                    <li>Fixed Replies tab showing empty for users who have replied to posts</li>
+                    <li>Removed Likes tab (Bluesky API only allows viewing your own likes)</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.20/Glidespan-1.1.20.dmg"
+                sparkle:edSignature="8iBqQjHE6JWqzqU2ez/rHkR9e8wpmFbLGoRhJWuCSlsNKAe6tRPDm1DrFOi99wSDuSof+gUvyvhv2sENCA/eDA=="
+                length="21596555"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.19</title>
             <pubDate>Wed, 23 Apr 2026 17:55:00 +0000</pubDate>
             <sparkle:version>22</sparkle:version>
