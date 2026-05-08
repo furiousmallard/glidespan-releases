@@ -9,6 +9,30 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.22</title>
+            <pubDate>Thu, 08 May 2026 22:00:00 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.22</h2>
+                <h3>Features</h3>
+                <ul>
+                    <li>In-app update notifications: See when updates are available directly in the sidebar and About pane</li>
+                </ul>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed post action buttons (reply, repost, quote, like, bookmark) not working in profile slide-out panel</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.22/Glidespan-1.1.22.dmg"
+                sparkle:edSignature="8WuYnh17fg3P+3kNxAftzomXvbs8m79LYyUFqafuR0QTrwIf2qTQOpoKoMyPke0o0T+d7QGRmucD9mB9GO2wDw=="
+                length="21665606"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.21</title>
             <pubDate>Wed, 07 May 2026 19:00:00 +0000</pubDate>
             <sparkle:version>24</sparkle:version>
