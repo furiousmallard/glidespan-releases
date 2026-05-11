@@ -9,6 +9,26 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.26</title>
+            <pubDate>Sun, 11 May 2026 04:10:00 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.1.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.26</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed multi-account draft isolation: drafts now properly filter by account when switching</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.26/Glidespan-1.1.26.dmg"
+                sparkle:edSignature="ga74V8lCZTVANuguEVcHUhsNHZcBurWFFSEiC8SwHoSDJovpz/nWBttqPXDvqxoA0KVwAM4FEZmz1DGRE7vOCA=="
+                length="22546964"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.25</title>
             <pubDate>Sun, 11 May 2026 03:30:00 +0000</pubDate>
             <sparkle:version>28</sparkle:version>
