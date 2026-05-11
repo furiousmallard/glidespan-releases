@@ -9,6 +9,32 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.27</title>
+            <pubDate>Sun, 11 May 2026 22:10:00 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.1.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.27</h2>
+                <h3>Performance Improvements</h3>
+                <ul>
+                    <li>Fixed app hangs caused by SwiftUI animation modifiers on list items</li>
+                    <li>Removed unnecessary animations that were causing layout thrashing</li>
+                </ul>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed notification and mentions badge counts getting out of sync with server</li>
+                    <li>Badges now properly clear when viewing columns and stay cleared</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.27/Glidespan-1.1.27.dmg"
+                sparkle:edSignature="lmQqJJc9ZYN44+kvu1ib5u7APavUszZsUaPHrWw8LcAHieFdzXwdy5JLdlY6yTkmvKwJH3xKAYyMJdimriq2CA=="
+                length="22547598"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.26</title>
             <pubDate>Sun, 11 May 2026 04:10:00 +0000</pubDate>
             <sparkle:version>29</sparkle:version>
