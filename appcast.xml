@@ -9,6 +9,28 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.23</title>
+            <pubDate>Sat, 10 May 2026 22:00:00 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.23</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed app hanging when loading images (JPEG, PNG, WebP)</li>
+                    <li>Force background thread image decoding using CGImageSource</li>
+                    <li>Pre-generate composer image thumbnails at init</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.23/Glidespan-1.1.23.dmg"
+                sparkle:edSignature="mEmiNTcC83MpZYVKatYYqAo5aN0mgCtMNCI3N8PeQIlnJCNxlpctR99ZBnOvL8cDgwu+FTNf5lUHQhlEBRDYDg=="
+                length="21674386"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.22</title>
             <pubDate>Thu, 08 May 2026 22:00:00 +0000</pubDate>
             <sparkle:version>25</sparkle:version>
