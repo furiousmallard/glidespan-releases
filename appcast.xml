@@ -9,6 +9,52 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.25</title>
+            <pubDate>Sun, 11 May 2026 03:30:00 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.1.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.25</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed emoji picker button not inserting selected emojis into post text</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.25/Glidespan-1.1.25.dmg"
+                sparkle:edSignature="TboFy36CfVcQZObtcfqLHJpHhwO7GZEzLl/M4gdesAP9IF3zlyiSQibG/IQq+/5pIsZ2CxFilogjfJiBcEabAw=="
+                length="22527861"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
+            <title>Version 1.1.24</title>
+            <pubDate>Sun, 11 May 2026 03:00:00 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.1.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.24</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed authentication for users on non-bsky.social PDS instances</li>
+                    <li>Fixed feed selector keyboard input (arrow keys, emoji picker)</li>
+                    <li>Fixed list pagination to load all user lists</li>
+                </ul>
+                <h3>New Features</h3>
+                <ul>
+                    <li>Added emoji picker button to post and thread composers</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.24/Glidespan-1.1.24.dmg"
+                sparkle:edSignature="zXhtoieygsVcCaJ4hHVUurkkzvKOTdV45XXBOf1gao+K5aEwtaT/K72jbsnqYUislIHVV/gv9cVmiisrQBjECw=="
+                length="21682450"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.23</title>
             <pubDate>Sat, 10 May 2026 22:00:00 +0000</pubDate>
             <sparkle:version>26</sparkle:version>
