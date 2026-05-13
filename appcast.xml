@@ -9,6 +9,28 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.28</title>
+            <pubDate>Tue, 13 May 2026 19:00:00 +0000</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.1.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.28</h2>
+                <h3>Performance Improvements</h3>
+                <ul>
+                    <li>Fixed app hangs in Analytics caused by inefficient database queries</li>
+                    <li>Optimized batch data fetching for analytics calculations</li>
+                    <li>Improved data cleanup performance</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.28/Glidespan-1.1.28.dmg"
+                sparkle:edSignature="RO5bEBVVqpkAvhq4vqsCwoXbLt9oFQW+bh3G9Lc1Mi10qlN3Emg6Zod+jLGceXmpNZv58kT/pgkOftHjsf6cAQ=="
+                length="22555153"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.27</title>
             <pubDate>Sun, 11 May 2026 22:10:00 +0000</pubDate>
             <sparkle:version>30</sparkle:version>
