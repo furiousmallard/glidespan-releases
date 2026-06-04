@@ -9,6 +9,28 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.29</title>
+            <pubDate>Wed, 04 Jun 2026 00:30:00 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.1.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.29</h2>
+                <h3>New Features</h3>
+                <ul>
+                    <li>Delete your own posts: access from the more menu (...) on any post you've authored</li>
+                    <li>Confirmation dialog before deletion to prevent accidents</li>
+                    <li>Delete posts directly from thread modal view</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.29/Glidespan-1.1.29.dmg"
+                sparkle:edSignature="udPl6NaQqBMgvY+OALtH+Gxz2Wj6PMde6v7l4CwNIj3zFBXtpD1+f66FEnMY8l6mFz/mtJQZXgvIRemSBXMaAQ=="
+                length="22638795"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.28</title>
             <pubDate>Tue, 13 May 2026 19:00:00 +0000</pubDate>
             <sparkle:version>31</sparkle:version>
