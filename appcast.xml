@@ -9,6 +9,27 @@
         <!-- Items ordered newest first -->
 
         <item>
+            <title>Version 1.1.30</title>
+            <pubDate>Fri, 06 Jun 2026 00:51:00 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.1.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.30</h2>
+                <h3>Bug Fixes</h3>
+                <ul>
+                    <li>Fixed crashes when opening post threads, account switcher, column picker, and other sheets/popovers</li>
+                    <li>Resolved environment injection issues introduced in v1.1.29</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/furiousmallard/glidespan-releases/releases/download/v1.1.30/Glidespan-1.1.30.dmg"
+                sparkle:edSignature="ATB9DN6l0hOJnkttZiZ2fmmDzWvtxkoVwIe+acOkeEmxQlm1fBap0/P4UMPMsq6Bs3ZYCF4/6Jl7q5jrpR44BQ=="
+                length="22700993"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 1.1.29</title>
             <pubDate>Wed, 04 Jun 2026 00:30:00 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
